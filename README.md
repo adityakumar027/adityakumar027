@@ -88,9 +88,8 @@
     <img src="https://img.shields.io/badge/Spotify-Now%20Playing-green?style=for-the-badge&logo=spotify"/>
   </a>
 </p>
-<p align="center">
-  ### 🎵 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-</p>
+                  ### 🎵 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
 
 ---
 
