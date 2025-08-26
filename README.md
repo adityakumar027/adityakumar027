@@ -63,6 +63,42 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityakumar027&theme=radical&margin-w=15&margin-h=15)
 
 ---
+
+<h1 align="center">🚀 LoadLite - Multithreaded TCP Load Balancer</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-17-blue.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/username/LoadLite?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=LoadLite&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🌟 Key Features
+- **Multi-threaded** for high performance  
+- **Dynamic Client Handling** with minimal latency  
+- **Optimized TCP Connections** for better throughput  
+
+---
+
+### 💡 Quote
+<p align="center"><i>"Efficiency is not just speed, it's balance."</i></p>
+
+---
+
+### 🎧 Coding Vibes
+<p align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
+    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-green?style=for-the-badge&logo=spotify"/>
+  </a>
+</p>
+
+
+
 <div align="center">
 
 # 🚀 LoadLite – Multithreaded TCP Load Balancer  
