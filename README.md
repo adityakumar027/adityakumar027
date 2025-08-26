@@ -49,18 +49,9 @@
 
 ---
 
-## 🐍 Contribution Graph
-![snake gif](https://github.com/adityakumar027/adityakumar027/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎧 What I’m Listening To
-[![Spotify](https://novatorem-livid-five.vercel.app/api/spotify)](https://open.spotify.com/user/)
-
----
-
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityakumar027&theme=radical&margin-w=15&margin-h=15)
+### 🎵 Coding Vibes
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 ---
 
@@ -97,11 +88,6 @@
 ---
 
 > *"Efficient. Lightweight. Scalable."*
-
----
-
-### 🎵 Coding Vibes
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 ---
 
