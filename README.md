@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Aditya Kumar
+# 👋 Hi, I'm Aditya Kumar  
 
-> *"Innovating with code, one project at a time."*
+> *"Innovating with code, one project at a time."*  
 
 ---
 
@@ -9,7 +9,7 @@
 - 🛠️ Skilled in **Full-Stack Development & Modern Tech Stacks**  
 - 🔗 Exploring **Decentralized Apps & Smart Contracts**  
 - 📊 Interested in **Data Science & Machine Learning**  
-- 🤝 Open to **collaborations, hackathons & open-source contributions**
+- 🤝 Open to **collaborations, hackathons & open-source contributions**  
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 🚀 Tech Stack
 
-### Languages & Core
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,9 +51,34 @@
 
 ---
 
+## 🐍 Contributions
+![snake gif](https://github.com/adityakumar027/adityakumar027/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎧 Currently Listening To
+[![Spotify](https://novatorem-livid-five.vercel.app/api/spotify)](https://open.spotify.com/user/)
+
+---
+
+# 🚀 Projects
+
+## LoadLite – Multithreaded TCP Load Balancer
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-17-blue.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge"/>
+</p>
+
+**Key Features:**
+- **Multi-threaded** for high performance  
+- **Dynamic Client Handling** with minimal latency  
+- **Optimized TCP Connections** for better throughput  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityakumar027&repo=LoadLite&theme=radical&hide_border=true" />
 </p>
+
+> *"Efficiency is not just speed, it's balance."*
 
 ---
 
@@ -63,8 +88,6 @@
     <img src="https://img.shields.io/badge/Spotify-Now%20Playing-green?style=for-the-badge&logo=spotify"/>
   </a>
 </p>
-### 🎵 Coding Vibes [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
 
 ---
 
