@@ -63,6 +63,33 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityakumar027&theme=radical&margin-w=15&margin-h=15)
 
 ---
+<div align="center">
+
+# 🚀 LoadLite – Multithreaded TCP Load Balancer  
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=LoadLite&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
+
+---
+
+> *"Efficient. Lightweight. Scalable."*
+
+---
+
+### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=10)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=10)
+
+---
+
+### 🎵 Coding Vibes
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
+
 
 ### ✨ Final Touch
 > _Crafting impactful solutions with code, one commit at a time._
