@@ -27,10 +27,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-17-blue.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/username/LoadLite?style=for-the-badge"/>
-</p>
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
