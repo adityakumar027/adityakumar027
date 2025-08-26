@@ -63,18 +63,7 @@
 
 # 🚀 Projects
 
-## LoadLite – Multithreaded TCP Load Balancer
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-17-blue.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge"/>
-</p>
-
-**Key Features:**
-- **Multi-threaded** for high performance  
-- **Dynamic Client Handling** with minimal latency  
-- **Optimized TCP Connections** for better throughput  
-
-> *"Efficiency is not just speed, it's balance."*
+<div align="center"> # 🚀 LoadLite – Multithreaded TCP Load Balancer ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=LoadLite&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff) --- > *"Efficient. Lightweight. Scalable."* --- ### 🎵 Coding Vibes [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID) --- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer) </div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityakumar027&repo=LoadLite&theme=radical&hide_border=true" />
