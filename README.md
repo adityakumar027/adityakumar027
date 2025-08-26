@@ -61,10 +61,6 @@
 
 ---
 
-# 🚀 Projects
-
-<div align="center"> # 🚀 LoadLite – Multithreaded TCP Load Balancer ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=LoadLite&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff) --- > *"Efficient. Lightweight. Scalable."* --- ### 🎵 Coding Vibes [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID) --- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer) </div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityakumar027&repo=LoadLite&theme=radical&hide_border=true" />
 </p>
@@ -75,9 +71,9 @@
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
     <img src="https://img.shields.io/badge/Spotify-Now%20Playing-green?style=for-the-badge&logo=spotify"/>
+    [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
   </a>
 </p>
-### 🎵 Coding Vibes [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 
 ---
