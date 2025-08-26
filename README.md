@@ -100,12 +100,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=10)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=10)
-
----
-
 ### 🎵 Coding Vibes
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
