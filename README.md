@@ -5,11 +5,11 @@
 ---
 
 ## 🌟 About Me
-- 🌱 Passionate about **Software Development, AI & Blockchain**  
+- 🌱 Passionate about **Software Development, AI, and Blockchain**  
 - 🛠️ Skilled in **Full-Stack Development & Modern Tech Stacks**  
 - 🔗 Exploring **Decentralized Apps & Smart Contracts**  
 - 📊 Interested in **Data Science & Machine Learning**  
-- 🤝 Open to **collaborations, hackathons & open-source contributions**  
+- 🤝 Open to **collaborations, hackathons, and open-source contributions**  
 
 ---
 
@@ -22,8 +22,7 @@
 ---
 
 ## 🚀 Tech Stack
-
-### Languages
+### Languages & Core
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,52 +43,72 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakumar027&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar027&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityakumar027&theme=radical&margin-w=15&margin-h=15)
 
 ---
 
-## 🐍 Contributions
+## 🐍 Contribution Graph
 ![snake gif](https://github.com/adityakumar027/adityakumar027/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🎧 Currently Listening To
+## 🎧 What I’m Listening To
 [![Spotify](https://novatorem-livid-five.vercel.app/api/spotify)](https://open.spotify.com/user/)
 
 ---
 
-# 🚀 Projects
+## 🏆 Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityakumar027&theme=radical&margin-w=15&margin-h=15)
 
-## LoadLite – Multithreaded TCP Load Balancer
+---
+
+<h1 align="center">🚀 LoadLite - Multithreaded TCP Load Balancer</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-17-blue.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/username/LoadLite?style=for-the-badge"/>
 </p>
 
-**Key Features:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=LoadLite&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🌟 Key Features
 - **Multi-threaded** for high performance  
 - **Dynamic Client Handling** with minimal latency  
 - **Optimized TCP Connections** for better throughput  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityakumar027&repo=LoadLite&theme=radical&hide_border=true" />
-</p>
+---
 
-> *"Efficiency is not just speed, it's balance."*
+
+
+
+<div align="center">
+
+# 🚀 LoadLite – Multithreaded TCP Load Balancer  
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=LoadLite&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
 
 ---
 
-### 🎧 Coding Vibes
-<p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
-    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-green?style=for-the-badge&logo=spotify"/>
-  </a>
-</p>
+> *"Efficient. Lightweight. Scalable."*
 
 ---
 
-### ✨ Quote
-> _"Crafting impactful solutions with code, one commit at a time."_
+### 🎵 Coding Vibes
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
+
+
+### ✨ Final Touch
+> _Crafting impactful solutions with code, one commit at a time._
