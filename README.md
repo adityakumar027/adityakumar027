@@ -29,12 +29,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 <p align="center">
   <img src="https://img.shields.io/badge/C++-17-blue.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/username/LoadLite?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=LoadLite&theme=radical&hide_border=true" />
 </p>
 
 ### Frameworks & Tools
