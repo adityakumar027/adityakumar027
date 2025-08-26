@@ -85,17 +85,6 @@
 
 ---
 
-### 💡 Quote
-<p align="center"><i>"Efficiency is not just speed, it's balance."</i></p>
-
----
-
-### 🎧 Coding Vibes
-<p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
-    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-green?style=for-the-badge&logo=spotify"/>
-  </a>
-</p>
 
 
 
