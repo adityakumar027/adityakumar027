@@ -1,28 +1,34 @@
 # 👋 Hi, I'm Aditya Kumar  
 
-> *Innovating with Code, One Project at a Time.*  
+💻 **Software Engineer | Tech Enthusiast | AI & Blockchain Explorer**  
 
----
-
-### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/adicrzz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/adityakumar027"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/aditya_x1x/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/aditya_x1x"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adicrzz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/adityakumar027">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/aditya_x1x/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/aditya_x1x">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Exploring **AI, Blockchain, and Full-Stack Development**  
-- 🛠 Skilled in **C++, Python, JavaScript, Solidity, React, Node.js**  
-- 🔗 Building **DApps, Smart Contracts & AI Models**  
-- 🤝 Open to **Collaborations, Hackathons & Open-Source**  
+- 🌱 Passionate about **Software Development, AI, and Blockchain**  
+- 🛠️ Skilled in **Full-Stack Development & Modern Tech Stacks**  
+- 🔗 Exploring **Decentralized Apps & Smart Contracts**  
+- 📊 Interested in **Data Science & Machine Learning**  
+- 🤝 Open to **collaborations, hackathons, and open-source contributions**  
 
 ---
 
-## 🛠 Languages & Tools  
+## 🛠 Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -47,34 +53,27 @@
 
 ---
 
-## 📈 GitHub Stats & Metrics  
-
-[<img align="left" width="390" alt="General Overview" src="https://github-readme-stats.vercel.app/api?username=adityakumar027&show_icons=true&theme=radical">](#)
-[<img align="right" width="390" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar027&layout=compact&theme=radical">](#)
-
-<br clear="both"/>
+## 📂 Featured Projects  
+- **[Blockchain-based DApp](#)** – Smart contract-powered decentralized app  
+- **[AI/ML Application](#)** – Predictive analytics & intelligent system  
+- **[Full-Stack Web Platform](#)** – Scalable MERN stack project  
 
 ---
 
-[<img align="left" width="390" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=adityakumar027&theme=radical">](#)
-[<img align="right" width="390" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=adityakumar027&theme=radical&row=1&column=6">](#)
-
-<br clear="both"/>
-
----
-
-[<img align="center" width="100%" alt="Metrics" src="https://github.com/lowlighter/metrics/blob/examples/metrics.svg">](#)
+## 📊 GitHub Stats  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adityakumar027&show_icons=true&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar027&layout=compact&theme=radical" width="48%">
+</p>
 
 ---
 
-### ✨ Quote of the Day  
-[<img align="center" width="100%" alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">](#)
+## 🌐 Let's Connect  
+- 📩 [LinkedIn](https://www.linkedin.com/in/adicrzz)  
+- 🏆 [LeetCode](https://leetcode.com/u/aditya_x1x/)  
+- 👨‍💻 [CodeChef](https://www.codechef.com/users/aditya_x1x)  
+- 💻 [GitHub](https://github.com/adityakumar027)  
 
 ---
 
-### 🎧 Currently Listening  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
-
----
-
-<sub>Infographics powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+✨ *"Innovating with code, one project at a time."* ✨
