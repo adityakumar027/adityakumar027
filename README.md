@@ -2,8 +2,20 @@
 
 💻 **Software Engineer | Tech Enthusiast | AI & Blockchain Explorer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adicrzz) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/adityakumar027)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/adicrzz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/adityakumar027">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/aditya_x1x/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/aditya_x1x">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -16,39 +28,52 @@
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages & Core:**  
-`C++` | `Python` | `JavaScript` | `Solidity`  
+## 🛠 Languages & Tools
 
-**Frameworks & Tools:**  
-`React` | `Node.js` | `Next.js` | `Express` | `Hardhat` | `Remix IDE`  
-
-**Blockchain & Web3:**  
-`Ethereum` | `Ethers.js` | `Web3.js` | `DeFi` | `NFTs`  
-
-**AI/ML:**  
-`TensorFlow` | `Scikit-learn` | `Pandas` | `NumPy` | `NLP`  
-
-**Database & Cloud:**  
-`MySQL` | `MongoDB` | `AWS` | `Docker`  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" />
+</p>
 
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Blockchain-based Project](#)** – Smart contract-powered DApp  
-🔹 **[AI/ML Application](#)** – Intelligent system with predictive modeling  
-🔹 **[Full-Stack Web App](#)** – Scalable MERN stack platform  
+- **[Blockchain-based DApp](#)** – Smart contract-powered decentralized app  
+- **[AI/ML Application](#)** – Predictive analytics & intelligent system  
+- **[Full-Stack Web Platform](#)** – Scalable MERN stack project  
 
 ---
 
 ## 📊 GitHub Stats  
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakumar027&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar027&layout=compact&theme=radical)  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adityakumar027&show_icons=true&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar027&layout=compact&theme=radical" width="48%">
+</p>
 
 ---
 
 ## 🌐 Let's Connect  
-- 📩 Reach me on [LinkedIn](https://www.linkedin.com/in/adicrzz)  
-- 💡 Explore my projects on [GitHub](https://github.com/adityakumar027)  
+- 📩 [LinkedIn](https://www.linkedin.com/in/adicrzz)  
+- 🏆 [LeetCode](https://leetcode.com/u/aditya_x1x/)  
+- 👨‍💻 [CodeChef](https://www.codechef.com/users/aditya_x1x)  
+- 💻 [GitHub](https://github.com/adityakumar027)  
+
+---
 
 ✨ *"Innovating with code, one project at a time."* ✨
