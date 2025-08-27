@@ -77,8 +77,7 @@
 ---
 <div align="center">
 
-### ✨ Final Touch
->  RECENT PROJECT
+### ✨ RECENT PROJECT
 
 # 🚀 LoadLite – Multithreaded TCP Load Balancer  
 
