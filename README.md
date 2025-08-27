@@ -77,6 +77,9 @@
 ---
 <div align="center">
 
+### ✨ Final Touch
+>  RECENT PROJECT
+
 # 🚀 LoadLite – Multithreaded TCP Load Balancer  
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=LoadLite&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
@@ -90,7 +93,3 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
-
-
-### ✨ Final Touch
-> _Crafting impactful solutions with code, one commit at a time._
