@@ -8,7 +8,7 @@
 - 🌱 Passionate about **Software Development, AI, and Blockchain**  
 - 🛠️ Skilled in **Full-Stack Development & Modern Tech Stacks**  
 - 🔗 Exploring **Decentralized Apps & Smart Contracts**  
-- 📊 Interested in **Data Science & Machiine Learning**  
+- 📊 Interested in **Data Science & Machine Learning**  
 - 🤝 Open to **collaborations, hackathons, and open-source contributions**  
 
 ---
