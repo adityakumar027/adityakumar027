@@ -92,3 +92,9 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
+
+## Portfolio sites
+
+- Portfolio: https://portfolio.adicrzz.workers.dev
+- Portfolio v2: https://adicrzz.vercel.app
