@@ -77,19 +77,46 @@
 ---
 <div align="center">
 
-### ✨ RECENT PROJECT
+### ⚡ FEATURED PROJECT
 
-# 🚀 LoadLite – Multithreaded TCP Load Balancer  
+# 🚀 SyncDrive – Real-Time Android to Google Drive Sync Engine  
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=LoadLite&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
+<br/>
+
+<a href="https://github.com/adityakumar027/Sync-Drive">
+  <img src="https://raw.githubusercontent.com/adityakumar027/adityakumar027/main/assets/syncdrive-showcase.gif" alt="SyncDrive Animated Showcase" width="100%" />
+</a>
+
+<br/>
+<br/>
+
+[![GitHub Release](https://img.shields.io/github/v/release/adityakumar027/Sync-Drive?color=00E5FF&label=Latest%20Release&logo=github&style=for-the-badge)](https://github.com/adityakumar027/Sync-Drive/releases)
+[![Platform](https://img.shields.io/badge/Platform-Android%2014+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
+[![Language](https://img.shields.io/badge/Built%20With-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
+[![Cloud](https://img.shields.io/badge/Cloud-Google%20Drive%20v3-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
+[![License](https://img.shields.io/badge/License-MIT-00E5FF?style=for-the-badge)](https://github.com/adityakumar027/Sync-Drive)
+
+<br/>
+
+> *"Autonomous. High-Performance. Zero-Collision Cloud Synchronization."*
 
 ---
 
-> *"Efficient. Lightweight. Scalable."*
+| ⚡ 4-Thread Parallel Engine | 🔄 Differential In-Place Sync | ⏰ WorkManager Auto-Sync | 🛡️ Checksum & Collision Guard |
+| :---: | :---: | :---: | :---: |
+| Simultaneous multi-file transfers with real-time slot progress | In-place file revisioning on Google Drive without duplicate clutter | Battery-efficient periodic background sync with WiFi & charging rules | SHA-256 and byte-level diffing guaranteeing absolute data consistency |
+
+<br/>
+
+[![SyncDrive Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakumar027&repo=Sync-Drive&theme=radical&show_owner=true)](https://github.com/adityakumar027/Sync-Drive)
+
+<br/>
+
+[![Download SyncDrive APK](https://img.shields.io/badge/📥%20Download%20SyncDrive%20APK-v1.3.0-00E5FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/adityakumar027/Sync-Drive/releases/latest)
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=100&section=footer)
 
 </div>
 
