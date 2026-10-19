@@ -111,10 +111,6 @@
   <img src="https://streak-stats.demolab.com?user=adityakumar027&background=0d1117&border=0052d4&ring=00c6ff&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00c6ff&sideLabels=00c6ff&dates=8b98a5" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumar027&bg_color=0d1117&color=00c6ff&line=00e5ff&point=ffffff&area=true&area_color=0052d4&hide_border=true" width="100%" alt="Contribution Graph"/>
-</div>
-
 ---
 
 ## 🌍 Portfolio
