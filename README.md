@@ -81,10 +81,12 @@
 
 # 🚀 SyncDrive – Real-Time Android to Google Drive Sync Engine  
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=140&section=header&text=SyncDrive&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff)
+
 <br/>
 
 <a href="https://github.com/adityakumar027/Sync-Drive">
-  <img src="https://raw.githubusercontent.com/adityakumar027/adityakumar027/main/assets/syncdrive-showcase.gif" alt="SyncDrive Animated Showcase" width="100%" />
+  <img src="https://raw.githubusercontent.com/adityakumar027/adityakumar027/main/assets/syncdrive-emblem.png" width="160" alt="SyncDrive Emblem" />
 </a>
 
 <br/>
@@ -116,7 +118,7 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=100&section=footer)
 
 </div>
 
