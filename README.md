@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=200&section=header&text=Aditya%20Kumar&fontSize=52&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Innovating%20with%20code%2C%20one%20project%20at%20a%20time.&descAlignY=58&descSize=18" width="100%" alt="Aditya Kumar header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=140&section=header&text=Aditya%20Kumar&fontSize=34&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Innovating%20with%20code%2C%20one%20project%20at%20a%20time.&descAlignY=62&descSize=15" width="100%" alt="Aditya Kumar header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Blockchain+Explorer;Open+Source+Contributor" alt="Typing SVG"/></a>
 
@@ -19,6 +19,49 @@
 - 🔗 Exploring **Decentralized Apps & Smart Contracts**  
 - 📊 Interested in **Data Science & Machine Learning**  
 - 🤝 Open to **collaborations, hackathons, and open-source contributions**  
+
+---
+
+<div align="center">
+
+### ⚡ FEATURED PROJECT
+
+<a href="https://github.com/adityakumar027/Sync-Drive">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=200&section=header&text=SyncDrive&fontSize=56&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Real-Time%20Android%20to%20Google%20Drive%20Sync%20Engine&descAlignY=60&descSize=20" width="100%" alt="SyncDrive banner"/>
+</a>
+<a href="https://github.com/adityakumar027/Sync-Drive">
+  <img src="https://raw.githubusercontent.com/adityakumar027/Sync-Drive/main/assets/logo.png" width="130" alt="SyncDrive Logo"/>
+</a>
+
+#### *"Autonomous. High-Performance. Zero-Collision Cloud Synchronization."*
+
+<br/>
+
+[![GitHub Release](https://img.shields.io/github/v/release/adityakumar027/Sync-Drive?color=00E5FF&label=Latest%20Release&logo=github&style=for-the-badge)](https://github.com/adityakumar027/Sync-Drive/releases)
+[![Platform](https://img.shields.io/badge/Platform-Android%2014+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
+[![Language](https://img.shields.io/badge/Built%20With-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
+[![Cloud](https://img.shields.io/badge/Cloud-Google%20Drive%20v3-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
+[![License](https://img.shields.io/badge/License-MIT-00E5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
+
+</div>
+
+<br/>
+
+| ⚡ 4-Thread Parallel Engine | 🔄 Differential In-Place Sync | ⏰ WorkManager Auto-Sync | 🛡️ Checksum & Collision Guard |
+| :---: | :---: | :---: | :---: |
+| Simultaneous multi-file transfers with real-time slot progress | In-place file revisioning on Google Drive without duplicate clutter | Battery-efficient periodic background sync with WiFi & charging rules | SHA-256 and byte-level diffing guaranteeing absolute data consistency |
+
+<br/>
+
+<div align="center">
+
+[![SyncDrive Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakumar027&repo=Sync-Drive&bg_color=0d1117&title_color=00c6ff&text_color=ffffff&icon_color=00e5ff&border_color=0052d4&show_owner=true)](https://github.com/adityakumar027/Sync-Drive)
+
+[![Download SyncDrive APK](https://img.shields.io/badge/%F0%9F%93%A5%20Download%20SyncDrive%20APK-v1.3.0-00E5FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/adityakumar027/Sync-Drive/releases/latest)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=120&section=footer)
+
+</div>
 
 ---
 
@@ -55,47 +98,6 @@
 
 ---
 
-<div align="center">
-
-### ⚡ FEATURED PROJECT
-
-<a href="https://github.com/adityakumar027/Sync-Drive">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=200&section=header&text=SyncDrive&fontSize=56&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Real-Time%20Android%20to%20Google%20Drive%20Sync%20Engine&descAlignY=60&descSize=20" width="100%" alt="SyncDrive banner"/>
-</a>
-<a href="https://github.com/adityakumar027/Sync-Drive">
-  <img src="https://raw.githubusercontent.com/adityakumar027/Sync-Drive/main/assets/logo.png" width="200" alt="SyncDrive Logo"/>
-</a>
-
-#### *"Autonomous. High-Performance. Zero-Collision Cloud Synchronization."*
-
-<br/>
-
-[![GitHub Release](https://img.shields.io/github/v/release/adityakumar027/Sync-Drive?color=00E5FF&label=Latest%20Release&logo=github&style=for-the-badge)](https://github.com/adityakumar027/Sync-Drive/releases)
-[![Platform](https://img.shields.io/badge/Platform-Android%2014+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
-[![Language](https://img.shields.io/badge/Built%20With-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
-[![Cloud](https://img.shields.io/badge/Cloud-Google%20Drive%20v3-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
-[![License](https://img.shields.io/badge/License-MIT-00E5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
-
-</div>
-
-<br/>
-
-| ⚡ 4-Thread Parallel Engine | 🔄 Differential In-Place Sync | ⏰ WorkManager Auto-Sync | 🛡️ Checksum & Collision Guard |
-| :---: | :---: | :---: | :---: |
-| Simultaneous multi-file transfers with real-time slot progress | In-place file revisioning on Google Drive without duplicate clutter | Battery-efficient periodic background sync with WiFi & charging rules | SHA-256 and byte-level diffing guaranteeing absolute data consistency |
-
-<br/>
-
-<div align="center">
-
-[![SyncDrive Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakumar027&repo=Sync-Drive&bg_color=0d1117&title_color=00c6ff&text_color=ffffff&icon_color=00e5ff&border_color=0052d4&show_owner=true)](https://github.com/adityakumar027/Sync-Drive)
-
-[![Download SyncDrive APK](https://img.shields.io/badge/%F0%9F%93%A5%20Download%20SyncDrive%20APK-v1.3.0-00E5FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/adityakumar027/Sync-Drive/releases/latest)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -117,9 +119,3 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0052D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.adicrzz.workers.dev)
 [![Portfolio V2](https://img.shields.io/badge/🌐%20Portfolio%20V2-00C6FF?style=for-the-badge&logo=vercel&logoColor=black)](https://adicrzz.vercel.app)
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=120&section=footer)
-
-</div>
