@@ -70,26 +70,19 @@
 
 ---
 
-## 🎧 What I’m Listening To
-### 🎵 Coding Vibes
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
----
 <div align="center">
 
 ### ⚡ FEATURED PROJECT
 
-# 🚀 SyncDrive – Real-Time Android to Google Drive Sync Engine  
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=140&section=header&text=SyncDrive&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff)
-
-<br/>
-
 <a href="https://github.com/adityakumar027/Sync-Drive">
-  <img src="https://raw.githubusercontent.com/adityakumar027/adityakumar027/main/assets/syncdrive-emblem.png" width="160" alt="SyncDrive Emblem" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=200&section=header&text=SyncDrive&fontSize=56&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Real-Time%20Android%20to%20Google%20Drive%20Sync%20Engine&descAlignY=60&descSize=20" width="100%" alt="SyncDrive banner"/>
+</a>
+<a href="https://github.com/adityakumar027/Sync-Drive">
+  <img src="https://raw.githubusercontent.com/adityakumar027/Sync-Drive/main/assets/logo.png" width="200" alt="SyncDrive Logo"/>
 </a>
 
-<br/>
+#### *"Autonomous. High-Performance. Zero-Collision Cloud Synchronization."*
+
 <br/>
 
 [![GitHub Release](https://img.shields.io/github/v/release/adityakumar027/Sync-Drive?color=00E5FF&label=Latest%20Release&logo=github&style=for-the-badge)](https://github.com/adityakumar027/Sync-Drive/releases)
@@ -98,11 +91,9 @@
 [![Cloud](https://img.shields.io/badge/Cloud-Google%20Drive%20v3-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/adityakumar027/Sync-Drive)
 [![License](https://img.shields.io/badge/License-MIT-00E5FF?style=for-the-badge)](https://github.com/adityakumar027/Sync-Drive)
 
+</div>
+
 <br/>
-
-> *"Autonomous. High-Performance. Zero-Collision Cloud Synchronization."*
-
----
 
 | ⚡ 4-Thread Parallel Engine | 🔄 Differential In-Place Sync | ⏰ WorkManager Auto-Sync | 🛡️ Checksum & Collision Guard |
 | :---: | :---: | :---: | :---: |
@@ -110,13 +101,11 @@
 
 <br/>
 
+<div align="center">
+
 [![SyncDrive Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adityakumar027&repo=Sync-Drive&theme=radical&show_owner=true)](https://github.com/adityakumar027/Sync-Drive)
 
-<br/>
-
-[![Download SyncDrive APK](https://img.shields.io/badge/📥%20Download%20SyncDrive%20APK-v1.3.0-00E5FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/adityakumar027/Sync-Drive/releases/latest)
-
----
+[![Download SyncDrive APK](https://img.shields.io/badge/%F0%9F%93%A5%20Download%20SyncDrive%20APK-v1.3.0-00E5FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/adityakumar027/Sync-Drive/releases/latest)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=100&section=footer)
 
