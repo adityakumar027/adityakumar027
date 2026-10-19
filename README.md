@@ -1,17 +1,6 @@
-<div align="center">
+# 👋 Hi, I'm Aditya Kumar  
 
-<h1>Aditya Kumar</h1>
-
-<p><i>Innovating with code, one project at a time.</i></p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Blockchain+Explorer;Open+Source+Contributor" alt="Typing SVG"/></a>
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=adityakumar027&label=Profile%20Views&color=00c6ff&style=for-the-badge)](https://github.com/adityakumar027)
-[![Followers](https://img.shields.io/github/followers/adityakumar027?label=Followers&style=for-the-badge&color=0052d4)](https://github.com/adityakumar027?tab=followers)
-
-</div>
+> *"Innovating with code, one project at a time."*  
 
 ---
 
