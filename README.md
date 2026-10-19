@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:00C6FF,100:00E5FF&height=140&section=header&text=Aditya%20Kumar&fontSize=34&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Innovating%20with%20code%2C%20one%20project%20at%20a%20time.&descAlignY=62&descSize=15" width="100%" alt="Aditya Kumar header"/>
+<h1>Aditya Kumar</h1>
+
+<p><i>Innovating with code, one project at a time.</i></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Blockchain+Explorer;Open+Source+Contributor" alt="Typing SVG"/></a>
 
