@@ -65,6 +65,16 @@
 
 ---
 
+## 💡 Open Source Contributions
+
+| Project | Pull Request | Status |
+| :--- | :--- | :--- |
+| [Backstage](https://github.com/backstage/backstage) (Spotify) | [gitlab:group:ensureExists: support GitLab user namespaces (#37096)](https://github.com/backstage/backstage/pull/37096) | ![Open](https://img.shields.io/badge/Status-Open-2da44e?style=flat-square) |
+| [Apicurio Registry](https://github.com/Apicurio/apicurio-registry) (CNCF) | [docs(mcp): document missing MCP server tools and fix transport comment (#11418)](https://github.com/Apicurio/apicurio-registry/pull/11418) | ![Approved](https://img.shields.io/badge/Status-Approved-0052D4?style=flat-square) |
+| [Jaeger](https://github.com/jaegertracing/jaeger) (CNCF) | [fix(memory): match trace_id and span_id filter constants case-insensitively (#10263)](https://github.com/jaegertracing/jaeger/pull/10263) | ![Open](https://img.shields.io/badge/Status-Open-2da44e?style=flat-square) |
+
+---
+
 ## 🚀 Tech Stack
 
 **Languages & Core**<br/>
