@@ -128,4 +128,4 @@
 ## 🌍 Portfolio
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0052D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.adicrzz.workers.dev)
-[![Portfolio V2](https://img.shields.io/badge/🌐%20Portfolio%20V2-00C6FF?style=for-the-badge&logo=vercel&logoColor=black)](https://adicrzz.vercel.app)
+[![Portfolio V2](https://img.shields.io/badge/🌐%20Portfolio%20V2-00C6FF?style=for-the-badge&logo=vercel&logoColor=black)](https://adicrz.vercel.app)
