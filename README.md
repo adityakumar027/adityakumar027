@@ -67,11 +67,20 @@
 
 ## 💡 Open Source Contributions
 
-| Project | Pull Request | Status |
-| :--- | :--- | :--- |
-| [Backstage](https://github.com/backstage/backstage) (Spotify) | [gitlab:group:ensureExists: support GitLab user namespaces (#37096)](https://github.com/backstage/backstage/pull/37096) | ![Open](https://img.shields.io/badge/Status-Open-2da44e?style=flat-square) |
-| [Apicurio Registry](https://github.com/Apicurio/apicurio-registry) (CNCF) | [docs(mcp): document missing MCP server tools and fix transport comment (#11418)](https://github.com/Apicurio/apicurio-registry/pull/11418) | ![Approved](https://img.shields.io/badge/Status-Approved-0052D4?style=flat-square) |
-| [Jaeger](https://github.com/jaegertracing/jaeger) (CNCF) | [fix(memory): match trace_id and span_id filter constants case-insensitively (#10263)](https://github.com/jaegertracing/jaeger/pull/10263) | ![Open](https://img.shields.io/badge/Status-Open-2da44e?style=flat-square) |
+<div align="center">
+
+<a href="https://github.com/adityakumar027/open-source-contributions"><img height="50" src="https://cdn.simpleicons.org/spotify/1ED760" alt="Spotify Backstage"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/adityakumar027/open-source-contributions"><img height="50" src="https://cdn.simpleicons.org/cncf/3970e4" alt="CNCF"/></a>
+
+<br/>
+
+[![PRs Opened](https://img.shields.io/badge/PRs%20Opened-3-0052D4?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
+[![In Review](https://img.shields.io/badge/In%20Review-2-00C6FF?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
+[![Approved](https://img.shields.io/badge/Approved-1-00E5FF?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
+[![Merged](https://img.shields.io/badge/Merged-0-6f42c1?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
+
+</div>
 
 ---
 
