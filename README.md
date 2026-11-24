@@ -75,9 +75,9 @@
 
 <br/>
 
-[![PRs Opened](https://img.shields.io/badge/PRs%20Opened-13-0052D4?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
-[![In Review](https://img.shields.io/badge/In%20Review-9-00C6FF?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
-[![Approved](https://img.shields.io/badge/Approved-1-00E5FF?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
+[![PRs Opened](https://img.shields.io/badge/PRs%20Opened-14-0052D4?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
+[![In Review](https://img.shields.io/badge/In%20Review-10-00C6FF?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
+[![Approved](https://img.shields.io/badge/Approved-3-00E5FF?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
 [![Merged](https://img.shields.io/badge/Merged-0-6f42c1?style=for-the-badge)](https://github.com/adityakumar027/open-source-contributions)
 
 </div>
